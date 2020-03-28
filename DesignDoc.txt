@@ -1,0 +1,16 @@
+===============================Initial Thoughts================================
+0. Randomizing the combination will be easy as Pi
+1. Have a class, piece, or an array dictionaries that is pulled from a json 
+file
+2. Class have attribites of 
+	--> Piece position ['Edge', 'Corner', 'Centre']
+	--> Can it move? (no in case of the centre)
+	--> List of the colours it has (3 colours in case of corner, 2 of edge)
+	--> Have its correct position in a 3D certasian point with the origin being
+		the white centre
+
+3. Compute the position of each piece after the combination has been created
+4. Make array for all pieces
+===========================End Of Initial Thoughts=============================
+
+===========================End Of Initial Document=============================
