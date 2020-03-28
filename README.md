@@ -1,0 +1,2 @@
+# Solvix
+Solve-Rubix cubes
