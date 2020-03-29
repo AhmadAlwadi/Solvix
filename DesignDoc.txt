@@ -13,4 +13,20 @@ file
 4. Make array for all pieces
 ===========================End Of Initial Thoughts=============================
 
+
+==================================To Do List===================================
+--> 0. Create a user interface with pygame, kivy or Qt
+--> 1. Create a 3D representation of the cube and make it rotate depending on
+	   each step taken by the program
+--> 2. Fetch a random 3x3 combination from cubemania
+--> 3. Rotate the cube according to that combination
+--> 4. Rotate it on the user's monitor in real time
+--> 5. Start solving
+=================================End Of List===================================
+
+
+=======================Libraries that I may want to use========================
+
+=================================End Of List===================================
+
 ===========================End Of Initial Document=============================
